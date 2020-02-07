@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooleimaet.sharklinux.net/sitemap.xml
